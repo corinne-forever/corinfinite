@@ -13,24 +13,23 @@ theme:
         code: Ubuntu Mono
     language: en
     palette:
-
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: teal
+      primary: black
       accent: light blue
       toggle:
-        icon: material/toggle-switch-off-outline
+        icon: material/weather-sunny
         name: Switch to dark mode
-
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: indigo
+      primary: black
+      accent: dark purple
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode
+
     features:
         - navigation.indexes
         - navigation.top
