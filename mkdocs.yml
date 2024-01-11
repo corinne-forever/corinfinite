@@ -118,6 +118,9 @@ extra_css:
     - assets/css/custom_attributes.css
     - assets/css/customization.css
 extra:
+  analytics:
+    provider: google
+    property: G-21KEKF8J3G
   SEO: assets/meta/SEO.png
   comments: False #disable comments globally
   generate_graph: True #generate the graph of the site
