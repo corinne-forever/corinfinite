@@ -96,5 +96,3 @@ For free to 4 dollars a month I can host this on Github with the [Github Publish
 To update the contents with Github Publish run the `Refresh published and upload new notes` command.
 
 Obsidian Publish is 8/month which isn't a lot but I don't particularly love the default layout and long term MkDocs may be more flexible.
-
-To 
