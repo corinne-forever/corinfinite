@@ -1,6 +1,6 @@
 site_name: Corinfinite # Change this to your site name
 site_description: Corinfinite
-site_url: corinne-forever.github.io/corinfinite # Change this to your site URL
+site_url: http://corinne-forever.github.io/corinfinite # Change this to your site URL
 site_author: Corinne
 
 theme:
