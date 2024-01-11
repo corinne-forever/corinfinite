@@ -2,6 +2,14 @@
 title: Configuration
 ---
 
+Theme: https://squidfunk.github.io/mkdocs-material/
+
+To build locally:
+```
+TODO
+```
+
+# Original README
 - [Obsidian Plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher)
 - [Template](https://github.com/ObsidianPublisher/mkdocs-publisher-template)
 - [Documentation](https://obsidian-publisher.netlify.app/)
