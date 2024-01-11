@@ -82,10 +82,8 @@ plugins:
   - search
   - meta-descriptions
   - git-revision-date-localized:
-      type: date
-      fallback_to_build_date: true
-      locale: en
-      custom_format: "%A %d %B %Y"
+      type: iso_date
+      fallback_to_build_date: false
       enable_creation_date: true
   - ezlinks:
         wikilinks: true
