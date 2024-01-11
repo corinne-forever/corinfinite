@@ -2,7 +2,7 @@
 share: true
 ---
 
-# Markdownload browser plugin
+# MarkDownload browser plugin
 
 Note that it doesn't include the Front-matter by default in the generated files. This feature is helpful since it includes the URL of the original page and the download date.
 
@@ -91,10 +91,10 @@ Bookmarklet: https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3
 Site to generate JS: https://obsidian-clipper-maker.ganesshkumar.com/
 
 # Web hosting
+## Github Publish
 For free to 4 dollars a month I can host this on Github with the [Github Publish](https://github.com/ObsidianPublisher/obsidian-github-publisher/tree/master) extension. The theme isn't as nice but I also don't love the default.
 
-To update the contents with Github Publish run the `Refresh published and upload new notes` command.
+The behavior of the commands is a bit wonky. Do a `Refresh all published notes` after making edits and there are note changes to upload. But do a `Refresh published and upload new notes`
 
+## Obsidian Publish
 Obsidian Publish is 8/month which isn't a lot but I don't particularly love the default layout and long term MkDocs may be more flexible.
-
-To 
