@@ -93,6 +93,6 @@ Site to generate JS: https://obsidian-clipper-maker.ganesshkumar.com/
 # Web hosting
 For free to 4 dollars a month I can host this on Github with the [Github Publish](https://github.com/ObsidianPublisher/obsidian-github-publisher/tree/master) extension. The theme isn't as nice but I also don't love the default.
 
-To update the contents with Github Publish run the `Refresh published and upload new notes` command.
+To update the contents with Github Publish run the `Refresh published and upload new notes` command. Do not use the `Upload all shared notes` command as it will 
 
 Obsidian Publish is 8/month which isn't a lot but I don't particularly love the default layout and long term MkDocs may be more flexible.
