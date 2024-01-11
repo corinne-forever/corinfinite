@@ -94,7 +94,9 @@ Site to generate JS: https://obsidian-clipper-maker.ganesshkumar.com/
 ## Github Publish
 For free to 4 dollars a month I can host this on Github with the [Github Publish](https://github.com/ObsidianPublisher/obsidian-github-publisher/tree/master) extension. The theme isn't as nice but I also don't love the default.
 
-The behavior of the commands is a bit wonky. Do a `Refresh all published notes` after making edits and there are note changes to upload. But do a `Refresh published and upload new notes`
+The behavior of the commands is a bit wonky. Doing a `Refresh all published notes` after making edits and there are no changes to upload. But do a `Refresh published and upload new notes` and it will generate a commit for every file on a branch  'VAULT_NAME-DD-MM-YYYY'. The diff is tiny, but it does seem weird that it generates a commit for each file. Maybe that's expected, but it is weird.
+
+It does seem to be possible to get things into a weird state where changes end up on the 'VAULT_NAME-DD-MM-YYYY' branch and not merged in. You should probably delete the branch after every upload.
 
 ## Obsidian Publish
 Obsidian Publish is 8/month which isn't a lot but I don't particularly love the default layout and long term MkDocs may be more flexible.
