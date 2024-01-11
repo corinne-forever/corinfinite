@@ -1,7 +1,6 @@
 ---
-share: "true"
+share: true
 ---
-
 
 I really want to use Rust on the frontend, but the maturity of the React ecosystem is so much better and is better known by AI tools.
 

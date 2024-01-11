@@ -2,7 +2,6 @@
 share: "true"
 ---
 
-
 There are [existing](https://overmental.com/content/the-definitive-chronological-viewing-order-for-the-star-trek-cinematic-universe-42395) [resources](https://www.looper.com/389192/this-is-the-correct-order-in-which-to-watch-the-star-trek-franchise/) online provide some guidance on how to watch Star Trek in what I call "Universe Chronological Order", that is in the order that events happened in the Star Trek universe, not in the order the shows and movies were released. The contents here are almost entirely composed based on the two linked articles, plus some editing of my own. This is mostly the order I have watched Star Trek in, except for Discovery, Lower Decks and Strange New Worlds.
 
 This order may or may not be for everyone. For example while watching Enterprise with a friend there was a VERY heavy handed reference to the Prime Directive that totally went over my head until my friend started laughing and said "wow that was very heavy handed" and explained why. Enterprise may also be a rather rough first Trek to go through, I am glad I got it out of the way first, but others may find it too painful to watch. The finale of Enterprise (These Are The Voyages) also may not make a lot of sense (who is this fancy new crew?) without prior exposure to TNG. When I saw it my exposure had almost entirely come from memes, so I had a vague familiarity with the TNG characters already.
