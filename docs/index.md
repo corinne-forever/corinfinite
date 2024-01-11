@@ -2,9 +2,9 @@
 template: blog.html
 title: Home
 hidden: true
-share: "True"
+share: "true"
 ---
 
-<!-- This is a comment that won't show up in the HTML output -->
+<!-- This oddly located markdown file is part of the home page of the  -->
 
-A cool description
+Hey this is my site, it's pretty rough around the edges but here it is.
