@@ -1,6 +1,10 @@
 ---
-share: "true"
+template: blog.html
+title: Home
+hidden: true
+share: "True"
 ---
 
-[comment]: <> This is used as the homepage by mkdocs
-Welcome to my site!
+<!-- This is a comment that won't show up in the HTML output -->
+
+A cool description
