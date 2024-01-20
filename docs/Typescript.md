@@ -95,3 +95,29 @@ class Bar {
 ```
 
 This may also be possible to achieve with https://github.com/gcanti/newtype-ts
+
+Another proposed mechanism:
+```
+declare const symbolB : unique symbol; 
+interface B {
+    x: any;
+    symbol: typeof symbolB;
+};
+declare const b:B;
+
+const symbolA = Symbol("a");
+interface A {
+    x: any;
+    symbol: typeof symbolA;
+};
+let a:A = b; // error
+//  ~
+// Type 'B' is not assignable to type 'A'.
+//   Types of property 'symbol' are incompatible.
+//     Type 'typeof symbolB' is not assignable to type 'typeof symbolA'.(2322)
+
+const c = Math.random() ? a : b;
+if (c.symbol===symbolB){
+    c; // const c: B
+}
+```
