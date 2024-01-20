@@ -36,8 +36,6 @@ Single hand
 
 https://clvx.one/
 
-Thrustmaster eSwap X PRO Controller (Xbox Series X/S and PC) https://a.co/d/2oo3Cfq
-
 https://www.core77.com/projects/66792/EXEO-Modular-Gaming-Controllers-Allow-You-to-Design-Your-Own-Controller-for-Each-Game
 
 https://hhkeyboard.us/hhkb-studio
@@ -48,3 +46,8 @@ Also has option similar to the characorder
 
 # Mouse
 Penguin mouse
+
+# controllers
+https://proteuscontroller.byowave.com/
+
+Thrustmaster eSwap X PRO Controller (Xbox Series X/S and PC) https://a.co/d/2oo3Cfq
